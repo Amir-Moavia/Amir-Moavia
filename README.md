@@ -59,13 +59,25 @@ const amir = {
 
 <div align="center">
 
+### ⭐ Highlight Projects
+
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🎫 [**OpsDesk**](https://github.com/Amir-Moavia/OpsDesk-Bootstrap-Project) | IT Helpdesk Ticketing System with role-based access | `Bootstrap 5` `JavaScript` |
-| 🏧 [**ATM System**](https://github.com/Amir-Moavia/Simple-ATM-Project) | Simulated ATM with procedural programming concepts | `C++` |
+| 🛒 [**Amazon Clone**](https://github.com/Amir-Moavia/Amazon-Copy) | Full-featured Amazon clone with cart, checkout, order tracking & dynamic rendering | `JavaScript` `HTML` `CSS` |
+| 🔍 [**Web Quality Auditor**](https://github.com/Amir-Moavia/Web_Quality_Auditor) | AI-powered website auditor with Gemini API integration & 7-dimension analysis | `JavaScript` `Node.js` `Gemini AI` |
+| 🚨 [**CrisisAI**](https://github.com/Amir-Moavia/CiroAI) | Multi-agent AI system for real-time urban crisis detection & mapping | `TypeScript` `AI/ML` |
+| 🎫 [**OpsDesk**](https://github.com/Amir-Moavia/OpsDesk-Bootstrap-Project) | IT Helpdesk Ticketing System with role-based access & Bootstrap 5 dark theme | `Bootstrap 5` `JavaScript` |
+| 🌐 [**My Portfolio**](https://github.com/Amir-Moavia/My-Portfolio) | Personal portfolio website | `HTML` `CSS` `JavaScript` |
+
+### 💻 C++ & Other Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| ✅ [**Habit Flow**](https://github.com/Amir-Moavia/Habit-Flow) | Habit tracking application | `JavaScript` |
+| 🎮 [**Hide N Seek Game**](https://github.com/Amir-Moavia/Hide_N_Seek_WebBased_Game) | Web-based interactive game | `TypeScript` |
 | 🏥 [**Hospital System**](https://github.com/Amir-Moavia/Hospital-Appointment-Management-System) | Appointment management with file handling | `C++` |
 | 🏦 [**Banking System**](https://github.com/Amir-Moavia/Banking-Managment-System) | Banking management with OOP principles | `C++` |
-| ✅ [**Habit Flow**](https://github.com/Amir-Moavia/Habit-Flow) | Habit tracking application | `JavaScript` |
+| 🏧 [**ATM System**](https://github.com/Amir-Moavia/Simple-ATM-Project) | Simulated ATM with procedural programming | `C++` |
 | 🎮 [**Hangman Game**](https://github.com/Amir-Moavia/Hangman-Game-InCpp) | Classic word-guessing game | `C++` |
 
 </div>
