@@ -76,12 +76,7 @@ const amir = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Amir-Moavia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amir-Moavia&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-Moavia&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" width="40%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amir-Moavia&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="60%" />
 
 </div>
 
@@ -98,18 +93,6 @@ const amir = {
 ---
 
 <div align="center">
-
-### 🐍 Watch my contributions get eaten!
-
-![Snake animation](https://raw.githubusercontent.com/Amir-Moavia/Amir-Moavia/output/github-snake-dark.svg)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Amir-Moavia&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS" />
 
 **💬 "First, solve the problem. Then, write the code." — John Johnson**
 
