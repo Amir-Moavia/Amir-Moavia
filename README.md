@@ -101,7 +101,6 @@ const amir = {
 [![Amir's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Amir-Moavia&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/Amir-Moavia)
 
 </div>
-
 ---
 
 <div align="center">
