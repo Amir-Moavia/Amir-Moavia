@@ -29,7 +29,7 @@ const amir = {
 - 🎓 Pursuing **BS Computer Science** at Abdul Wali Khan University Mardan
 - 💻 Building real-world projects to sharpen my skills
 - 🌐 Passionate about crafting **modern, responsive web experiences**
-- 🚀 Currently mastering **Bootstrap 5** and **JavaScript ES6+**
+- 🚀 Currently mastering **JavaScript ES6+** and **Node.js**
 - 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/amirmoavia)**
 
 ---
