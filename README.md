@@ -85,10 +85,9 @@ const amir = {
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amir-Moavia&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="60%" />
+<img src="https://streak-stats.demolab.com/?user=Amir-Moavia&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="60%" />
 
 </div>
 
